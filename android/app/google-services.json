@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1027040851110",
+    "firebase_url": "https://lesson46-1f92c-default-rtdb.firebaseio.com",
+    "project_id": "lesson46-1f92c",
+    "storage_bucket": "lesson46-1f92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027040851110:android:a574990822c5822313b067",
+        "android_client_info": {
+          "package_name": "com.example.lesson72"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7aeTTvmeQs_ZA4nee55PjqTHhRSFVWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027040851110:android:8b29195fad59377913b067",
+        "android_client_info": {
+          "package_name": "com.example.restoran_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd7aeTTvmeQs_ZA4nee55PjqTHhRSFVWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+    
+  ],
+  "configuration_version": "1"
+}
